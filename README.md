@@ -1,4 +1,5 @@
 # Merc Bus System
+C++ CLI application for bus reservation ticketing system, equipped with complete design and functionality.
 
 To run: Please run this on GNU/UNIX supported compiler such as Dev C++. For Windows 11, an admin privilege is mandatory to display the graphics correctly. 
 You can also run the SourceFile.exe directly via admin privilege
